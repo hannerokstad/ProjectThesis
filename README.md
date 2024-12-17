@@ -1,4 +1,4 @@
-In this repository the code for the analysis found in the Results-section of my project thesis. 
+The code for the analysis found in the Results-section of my project thesis. 
 
 Files:
 - Geometric_distortion_BW.ipynb: The analysis don eon the shifting of boundaries for varying bandwidths.
